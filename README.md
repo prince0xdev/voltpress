@@ -1,76 +1,75 @@
-# ⚡ VoltPress Manifesto
+# ⚡ VoltPress
 
-> “If WordPress was built in PHP, VoltPress will be reborn in pure JavaScript.”  
-> — Prince Ekpinse ⚡
+> “No PHP. No legacy. Just JavaScript and ambition.”
 
----
-
-## 💥 The Rebellion Begins
-
-For years, the web has been powered by PHP.  
-It built empires, blogs, and chaos.  
-But now, it's time for something new — something **electric** ⚡
-
-VoltPress is not just a CMS.  
-It’s a **statement**.  
-A declaration of independence from the old web.  
-Built for developers who think *faster*, build *cleaner*, and dare to say:  
-> “We can do it better. With JavaScript.”
+VoltPress is an **open-source experiment** to **rebuild WordPress** — but entirely with **modern JavaScript**.
+It’s not a fork. It’s not a clone. It’s a **fresh start**, built by a **young, ambitious developer** who believes learning happens best by **building crazy ideas that shouldn’t exist... yet**.
 
 ---
 
-## 🔥 What VoltPress Stands For
+## 🧠 The Origin
 
-- ⚙️ 100% **JavaScript everywhere** — frontend, backend, plugins, themes.  
-- 🧩 A **CMS built like Lego** — modular, flexible, hackable.  
-- 💻 A place where **developers, not frameworks**, set the rules.  
-- ⚡ Fast. Modern. Open-source.  
-- 😎 And absolutely **no PHP allowed**.
+I’m **Prince Ekpinse**, a **junior developer** who loves React, Next.js, and everything JavaScript.
+But there’s one thing I’ve always hated — **PHP** 😤
 
----
+So I asked myself:
 
-## 🧠 Why?
+> “If WordPress was invented today by JavaScript developers, how would it look?”
 
-Because we’re tired of bloated systems.  
-Of code that looks like a time machine to 2005.  
-Of waiting for plugins to break after each update.  
-The web deserves something better —  
-A CMS that speaks the language of the modern era: **JavaScript**.
+That’s how **VoltPress** was born — a CMS that brings the **simplicity and flexibility of WordPress**,
+but powered by **modern JavaScript**, clean architecture, and developer joy.
 
 ---
 
-## 🚀 The Mission
+## 💥 The Vision
 
-VoltPress is an experiment.  
-A rebellion.  
-A love letter to developers who dream in React, think in APIs,  
-and deploy faster than they type “composer install”.
+VoltPress isn’t just another CMS project.
+It’s a **statement** — that the new generation of devs can **learn**, **build**, and **reinvent** tools that shaped the web.
 
-We’re building:
-- a CMS that’s fast enough for startups ⚡  
-- flexible enough for creators 🌍  
-- and modern enough for the web we actually use in 2025 💻
+* We’ll rebuild WordPress’s core ideas: posts, users, media, themes, plugins…
+* But we’ll do it with **React, Node.js, Prisma, and Next.js**.
+* No legacy code. No clunky PHP. No outdated stack.
+* Just **volt-fast performance** ⚡, **modern APIs**, and **developer-first design**.
 
 ---
 
-## 🧩 Philosophy
+## ⚔️ The Problems We’re Challenging
 
-> “Learning by building the impossible.”
-
-VoltPress is **not** built to compete with WordPress.  
-It’s built to *reimagine it*.  
-To learn, to explore, to challenge the norm — and have fun doing it.
-
-If you believe that coding should feel like creation, not maintenance,  
-welcome to the VoltPress movement ⚡
+* **Outdated tech debt:** WordPress still runs on PHP and MySQL spaghetti. VoltPress will use **Node.js + PostgreSQL** with a clean Prisma ORM.
+* **Theme chaos:** Instead of messy PHP templates, VoltPress themes will be **React components** — reusable, modern, and reactive.
+* **Plugin conflicts:** VoltPress will introduce a **hook/event system** with clear contracts and TypeScript safety.
+* **Slow admin panel:** Say goodbye to jQuery. VoltPress admin UI will be **Next.js + TailwindCSS**, lightning-fast and beautiful.
+* **Learning nightmare:** VoltPress will be **documented for devs**, not dinosaurs 🦖
 
 ---
 
-## 👑 Author
+## 🧱 What We’re Building (Phase 1)
 
-**Prince Ekpinse**  
-> “I hate PHP, I love JavaScript, and I’m not afraid to rebuild the web.”  
-Follow the madness → [LinkedIn](https://linkedin.com/in/prince-ekpinse)
+* Modular **core system**: posts, users, media, settings
+* **Admin UI** in Next.js
+* **Plugin engine** powered by hooks/events
+* **Theme system** with React components
+* REST + GraphQL APIs
+* **WordPress Importer** (because migration should be fun 😎)
+
+---
+
+## 💡 Philosophy
+
+VoltPress is not made to “kill” WordPress.
+It’s made to **reimagine** it — to see how far JavaScript can go when curiosity meets rebellion.
+
+Every line of code is a step in the journey of a **junior dev learning by doing**,
+and every commit tells a story: “We’re not waiting for the future — we’re building it.”
+
+---
+
+## 🧑‍💻 Author
+
+**Prince Ekpinse**
+
+> “Rebuilding WordPress the JavaScript way — one volt at a time.”
+> Follow my journey on [LinkedIn](https://linkedin.com/in/prince-ekpinse)
 
 ---
 
